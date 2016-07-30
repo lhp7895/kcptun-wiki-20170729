@@ -1,5 +1,5 @@
 **# 一、交叉编译环境配置**
-
+```
 来源网友博文： [极路由1s(mt7620a)OpenWrt交叉编译go程序](http://studygolang.com/articles/7326)
 
 
@@ -109,4 +109,4 @@ sndwnd * mtu 不能超过上行带宽, rcvwnd * mtu 不能超过下行带宽
 对延迟不敏感的情况，比如只用于数据传输，可以用MODE_FAST，20ms的内部时钟，默认值
 对延迟敏感的情况，可以用FAST2模式，但必须严格注意第一条规则
 更多说明移步：https://github.com/xtaci/kcptun
-
+```
