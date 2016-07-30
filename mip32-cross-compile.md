@@ -1,5 +1,5 @@
-**# 一、交叉编译环境配置**
 ```
+**# 一、交叉编译环境配置**
 来源网友博文： [极路由1s(mt7620a)OpenWrt交叉编译go程序](http://studygolang.com/articles/7326)
 
 
